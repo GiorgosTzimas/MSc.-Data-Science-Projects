@@ -52,11 +52,11 @@ To build models that accurately **classify mental health conditions** using NLP 
 ### Deep Learning
 - Multilayer Perceptron (MLP)
 
-### 🧠 Transformer Models
+### Transformer Models
 - **BERT** (Fine-tuned using Hugging Face Transformers)
 - Evaluation with attention to multi-class classification
 
-### 🧠 LLM (GPT-4o)
+### LLM (GPT-4o)
 - Prompt-based classification or zero-shot/few-shot learning using GPT-style models
 
 ---
