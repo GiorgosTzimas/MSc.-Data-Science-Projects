@@ -34,11 +34,15 @@ The analysis identified key factors driving U.S. apartment rental prices and mar
 -  Finally, feature engineering and dimensionality reduction preserved ~80% of variance while improving model interpretability (R² = 0.7953), overcoming past overfitting issues and providing reliable, actionable insights for real estate stakeholders.
 
 Below are the final results of the top performed model both for regression and classificagtion:
+
 **Regression Results**
+![Regression Results](images/Reression_Results.png)
 
 **Classification Results**
+![Classification Results](images/Classification_Results.png)
 
 **Error Analysis of XGBoost model**
+![XGB Error Analysis](images/XGB_Error_analysis.png)
 
 #### **Recommendations**
 
