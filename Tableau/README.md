@@ -3,16 +3,12 @@
 The Copenhagen Airbnb market is dynamic and fragmented, making it difficult for management to track pricing, guest satisfaction, and property performance at the same time. This project builds an interactive dashboard that centralizes key metrics—average nightly price, review scores, booking availability, and property type, into a single actionable tool. Features like geographical heatmaps, dynamic filters, and calculated metrics (e.g., Review/Rating Ratio, % of Time Booked) help Airbnb management identify high-performing neighborhoods, optimize pricing, and improve guest satisfaction. The dashboard supports data-driven decisions for both corporate management and property managers, enabling efficient operations and enhanced market competitiveness.
 
 
-
-
-The dataset utilized can be found here: <a href="https://www.kaggle.com/code/saurav9786/rent-price-recommender/input" style="text-decoration: underline;">here</a>
+The two datasets utilized, were provided by CBS professors and they are not available online.
 
 
 # **Data Structure & Initial Checks**
 
 First steps was to work on two datasets on Python before design the dashboard.
-
-The project uses two main datasets (which provided from professors of CBS):
 
 - calendar.csv: contains 7,631,731 entries tracking daily availability and price for each listing across 365 days. Columns include listing_id, date, price, and available. No missing values were found, ensuring complete temporal coverage.
 
@@ -31,6 +27,8 @@ These checks ensure that both datasets are consistent, complete, and ready for c
 
 This project develops an interactive Airbnb dashboard for Copenhagen to centralize key metrics like **pricing**, **guest satisfaction**, and **availability** into a unified, actionable tool. The dashboard enables Airbnb management to optimize performance across neighborhoods and property types by providing insights into **pricing trends**, **guest preferences**, and **market opportunities**.
 
+![Overview](images/Overview.png)
+
 Key findings include:
 
 - **Pricing variation**: Indre By stands out as a premium location, while Bispebjerg offers cost-effective options.
@@ -45,6 +43,8 @@ Key findings include:
 The Airbnb dashboard analysis reveals key patterns in Copenhagen’s rental market, quantifying insights to inform strategic decisions:
 
 - **Pricing Variation**: Average nightly prices differ significantly across neighborhoods. Indre By averages 1,800 DKK/night, positioning it as a premium area, while Bispebjerg averages 900 DKK/night, appealing to budget-conscious guests. Historical trends show consistent premium pricing in central neighborhoods over the past year.
+
+![Indreby_Bispebj](images/IndreBy_Bispebj.png)
 
 - **Guest Satisfaction**: Mid-range properties with average review scores of 4.5/5 outperform higher-priced listings, suggesting pricing adjustments could enhance competitiveness. Historically, mid-priced listings have maintained steady high satisfaction scores, indicating a stable opportunity.
 
