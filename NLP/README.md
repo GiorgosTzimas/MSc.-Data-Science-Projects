@@ -4,7 +4,9 @@ This project applies NLP techniques to identify and classify **mental health con
 
 ## Dataset
 
-**Source**: Sentiment Analysis for Mental Health (https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health/data)  
+The dataset that utilized can be found here:
+<a href="https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health/data" style="text-decoration: underline;">here</a>
+
 **Description**: The dataset contains labeled text posts from individuals experiencing various mental health issues. Each entry includes:
 
 - `text`: User-submitted post
