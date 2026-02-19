@@ -40,7 +40,6 @@ The dataset utilized can be found <a href="https://www.kaggle.com/datasets/sobha
 ## **Executive Summary**
 This project develops an interactive dashboard about traffic accidents in Los Angeles with key metrics like number of accidents, average severity, and high severity accident rate into a unified, actionable tool. The dashboard enables traffic authorities in Los Angeles to identify high risk periods and locations by revealing patterns in accident frequency and severity across time, weather, and road infrastructure.
 
-Dashboard Overview
 ![Dashboard Overview](images/LA_Traffic_Accidents.png)
 
 #### **Overview of Findings**
