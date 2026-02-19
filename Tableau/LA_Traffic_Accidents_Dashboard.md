@@ -4,12 +4,15 @@
 # **Project Scope and Objectives**
 
 This project analyzes traffic accident frequency and severity in Los Angeles using historical accident data from February 2016 to March 2023.
+
 The analysis focuses on temporal patterns, weather and light conditions, and road infrastructure features to identify patterns in accident frequency and severity
+
 The analysis is descriptive and exploratory. It does not claim causality.
 
 # **Data Source**
 
 The dataset is US Accidents 2016 to 2023, published on Kaggle and compiled by Sobhan Moosavi.
+
 The raw dataset contains millions of records across 49 US states, but for this project's purposes, only accidents recorded in Los Angeles have been filtered.
 
 **Dataset Link:** https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
@@ -23,17 +26,21 @@ The raw dataset contains millions of records across 49 US states, but for this p
 - CSV export
 - Tableau dashboard
 
-Conceptual Framework
+**Conceptual Framework**
 ![Conceptual Framework](images/LA_Conceptual_framework.png)
 
-Data Analysis Process
+**Data Analysis Process**
 ![Data Analysis Process](images/LA_Data_Analysis_Process.png)
 
 # **Star Schema**
-![Star Schema](images/LA_Traffic_Accidents_Star_Schema.png)
+![Star Schema](images/LA_Traffic_Accidents_star_schema.png)
 
 
 ## **Executive Summary**
+This project develops an interactive dashboard about traffic accidents in Los Angeles with key metrics like number of accidents, average severity, and high severity accident rate into a unified, actionable tool. The dashboard enables traffic authorities in Los Angeles to identify high risk periods and locations by revealing patterns in accident frequency and severity across time, weather, and road infrastructure.
+
+Dashboard Overview
+![Dashboard Overview](images/LA_Traffic_Accidents.png)
 
 #### **Overview of Findings**
 - Accidents occur most frequently between 04:00 and 08:00.
