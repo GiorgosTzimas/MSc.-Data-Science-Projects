@@ -12,7 +12,7 @@ Insights and recommendations are provided on the following key areas:
 
 - **Feature Engineering and Data Utilization**: Effective preprocessing, dimensionality reduction, and creation of derived features, such as price per square foot or geographic clusters, significantly enhances model performance and interpretability.
 
-The dataset utilized can be found here: <a href="https://www.kaggle.com/code/saurav9786/rent-price-recommender/input" style="text-decoration: underline;">here</a>
+The dataset utilized can be found: <a href="https://www.kaggle.com/code/saurav9786/rent-price-recommender/input" style="text-decoration: underline;">**here**</a>
 
 
 # **Data Structure & Initial Checks**
