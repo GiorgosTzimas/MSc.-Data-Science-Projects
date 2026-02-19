@@ -1,6 +1,6 @@
 ## **Links**
 
-To see the LA Traffic Accidents Dashboard please press here <a href="https://public.tableau.com/views/LATrafficAccidentsDashboard/DashboardMain?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" style="text-decoration: underline;">Dashboard</a>
+To see the LA Traffic Accidents Dashboard please press <a href="https://public.tableau.com/views/LATrafficAccidentsDashboard/DashboardMain?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" style="text-decoration: underline;">**here**</a>
 
 # **Project Scope and Objectives**
 
@@ -16,7 +16,7 @@ The dataset is US Accidents 2016 to 2023, published on Kaggle and compiled by So
 
 The raw dataset contains millions of records across 49 US states, but for this project's purposes, only accidents recorded in Los Angeles have been filtered.
 
-The dataset utilized can be found here: <a href="https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents" style="text-decoration: underline;">here</a>
+The dataset utilized can be found <a href="https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents" style="text-decoration: underline;">**here**</a>
 
 # **Preprocess & Copnceptual framework**
 - Raw CSV
