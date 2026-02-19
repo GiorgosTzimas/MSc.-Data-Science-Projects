@@ -1,3 +1,6 @@
+# **Link**
+https://public.tableau.com/views/Visualization-ProjectExam-AirBnBDashboard-Final_17591434286260/DB-Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 # **Project Background**
 
 The Copenhagen Airbnb market is dynamic and fragmented, making it difficult for management to track pricing, guest satisfaction, and property performance at the same time. This project builds an interactive dashboard that centralizes key metrics—average nightly price, review scores, booking availability, and property type, into a single actionable tool. Features like geographical heatmaps, dynamic filters, and calculated metrics (e.g., Review/Rating Ratio, % of Time Booked) help Airbnb management identify high-performing neighborhoods, optimize pricing, and improve guest satisfaction. The dashboard supports data-driven decisions for both corporate management and property managers, enabling efficient operations and enhanced market competitiveness.
